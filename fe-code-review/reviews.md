@@ -1,0 +1,5 @@
+- Consider breaking down email sending logic and other specific parts of code into separate functions for better organization
+- Line 22 and 55, there is a variable named `hashSum` that is sued twice within the same scope, whicih could lead to confusion.
+- Remove unused variables
+- Need more comments of each process
+- We need test for the code.
